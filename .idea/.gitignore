@@ -9,7 +9,7 @@
 /dataSources/
 /dataSources.local.xml
 
-discord.xml
-gradle.xml
-misc.xml
-vcs.xml
+/discord.xml
+/gradle.xml
+/misc.xml
+/vcs.xml
